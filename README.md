@@ -13,4 +13,6 @@ able to provide his own data type he wants, but this assumes a lot of extra work
 with data validation, extra checks, which are out of the range of this task.
 
 
-
+Checks for triangle, and null values are performed in constructor. It is not
+a bad way, as I need object with appropriate data in it. There are more ways to achieve
+validation, but for simplicity i decided to do it this way.
